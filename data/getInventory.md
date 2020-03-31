@@ -1,0 +1,94 @@
+{
+   "count":4,
+   "results":{
+      "products":[
+         {
+            "product_id":4328455626,
+            "sku":"CVS-LISA-30-12x18x1.50",
+            "property_values":[
+               {
+                  "property_id":100,
+                  "property_name":"Size",
+                  "scale_id":327,
+                  "scale_name":" inches",
+                  "values":[
+                     "12&quot; x 18&quot;"
+                  ],
+                  "value_ids":[
+                     105045915641
+                  ]
+               }
+            ],
+            "offerings":[
+               {
+                  "offering_id":4195057811,
+                  "price":{
+                     "amount":2599,
+                     "divisor":100,
+                     "currency_code":"USD",
+                     "currency_formatted_short":"$25.99",
+                     "currency_formatted_long":"$25.99 USD",
+                     "currency_formatted_raw":"25.99"
+                  },
+                  "quantity":10,
+                  "is_enabled":1,
+                  "is_deleted":0
+               }
+            ],
+            "is_deleted":0
+         },
+         {
+            "product_id":4328254446,
+            "sku":"CVS-LISA-30-16x24x1.50",
+            "property_values":[
+               {
+                  "property_id":100,
+                  "property_name":"Size",
+                  "scale_id":327,
+                  "scale_name":" inches",
+                  "values":[
+                     "16&quot; x 24&quot;"
+                  ],
+                  "value_ids":[
+                     101958104044
+                  ]
+               }
+            ],
+            "offerings":[
+               {
+                  "offering_id":4194856211,
+                  "price":{
+                     "amount":2599,
+                     "divisor":100,
+                     "currency_code":"USD",
+                     "currency_formatted_short":"$25.99",
+                     "currency_formatted_long":"$25.99 USD",
+                     "currency_formatted_raw":"25.99"
+                  },
+                  "quantity":10,
+                  "is_enabled":1,
+                  "is_deleted":0
+               }
+            ],
+            "is_deleted":0
+         }
+      ],
+      "price_on_property":[
+         100
+      ],
+      "quantity_on_property":[
+         100
+      ],
+      "sku_on_property":[
+         100
+      ]
+   },
+   "params":{
+      "listing_id":"783967399",
+      "write_missing_inventory":false
+   },
+   "type":"ListingInventory",
+   "pagination":{
+
+   }
+}
